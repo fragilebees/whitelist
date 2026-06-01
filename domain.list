@@ -10,3 +10,98 @@ DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,data.microsoft.com
+
+#defi - top 30 by TVL (ETH/Base/ARB) - defillama.com
+# 1. Lido ($17.4B) - Liquid Staking
+DOMAIN-SUFFIX,lido.fi
+
+# 2. SSV Network ($14.4B) - Staking Pool
+DOMAIN-SUFFIX,ssv.network
+
+# 3. Aave V3 ($13.1B) - Lending
+DOMAIN-SUFFIX,aave.com
+
+# 4. Morpho Blue ($7.2B) - Lending
+DOMAIN-SUFFIX,morpho.org
+
+# 5. Sky / MakerDAO ($6.0B) - CDP
+DOMAIN-SUFFIX,sky.money
+DOMAIN-SUFFIX,maker.blockanalitica.com
+
+# 6. EigenLayer / EigenCloud ($5.8B) - Restaking
+DOMAIN-SUFFIX,eigenlayer.xyz
+DOMAIN-SUFFIX,eigencloud.xyz
+
+# 7. Ethena ($4.5B) - Basis Trading / Synthetic USD
+DOMAIN-SUFFIX,ethena.fi
+
+# 8. SparkLend ($3.7B) - Lending (Sky ecosystem)
+DOMAIN-SUFFIX,spark.fi
+
+# 9. ether.fi ($3.3B) - Liquid Restaking
+DOMAIN-SUFFIX,ether.fi
+
+# 10. Maple Finance ($2.1B) - Lending
+DOMAIN-SUFFIX,maple.finance
+
+# 11. PancakeSwap ($1.9B) - DEX
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# 12. Uniswap ($1.6B) - DEX
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,uniswap.com
+
+# 13. Curve Finance ($1.6B) - DEX
+DOMAIN-SUFFIX,curve.finance
+DOMAIN-SUFFIX,curve.fi
+
+# 14. Pendle ($1.4B) - Yield tokenization
+DOMAIN-SUFFIX,pendle.finance
+
+# 15. Kelp DAO ($1.3B) - Liquid Restaking
+DOMAIN-SUFFIX,kelpdao.xyz
+
+# 16. Compound V3 ($1.2B) - Lending
+DOMAIN-SUFFIX,compound.finance
+
+# 17. Rocket Pool ($0.76B) - Liquid Staking
+DOMAIN-SUFFIX,rocketpool.net
+
+# 18. Obol ($0.76B) - Staking Pool
+DOMAIN-SUFFIX,obol.org
+
+# 19. StakeWise ($0.72B) - Liquid Staking
+DOMAIN-SUFFIX,stakewise.io
+
+# 20. Fluid ($0.66B) - Lending / DEX
+DOMAIN-SUFFIX,fluid.io
+
+# 21. Convex Finance ($0.55B) - Yield (Curve booster)
+DOMAIN-SUFFIX,convexfinance.com
+
+# 22. Symbiotic ($0.41B) - Restaking
+DOMAIN-SUFFIX,symbiotic.fi
+
+# 23. Euler V2 ($0.27B) - Lending
+DOMAIN-SUFFIX,euler.finance
+
+# 24. GMX - Perps / DEX on Arbitrum
+DOMAIN-SUFFIX,gmx.io
+
+# 25. Aerodrome - DEX on Base
+DOMAIN-SUFFIX,aerodrome.finance
+
+# 26. Balancer - DEX
+DOMAIN-SUFFIX,balancer.fi
+
+# 27. Velodrome - DEX on Optimism/Base
+DOMAIN-SUFFIX,velodrome.finance
+
+# 28. Camelot DEX - Arbitrum DEX
+DOMAIN-SUFFIX,camelot.exchange
+
+# 29. Across Protocol - Bridge ETH/Base/ARB
+DOMAIN-SUFFIX,across.to
+
+# 30. 1inch - DEX Aggregator
+DOMAIN-SUFFIX,1inch.io
