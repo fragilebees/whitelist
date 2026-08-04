@@ -10,6 +10,19 @@ DOMAIN-SUFFIX,web.telegram.org
 DOMAIN-SUFFIX,any.web.telegram.org
 DOMAIN-SUFFIX,zws1.web.telegram.org
 DOMAIN-SUFFIX,kws1-1.web.telegram.org
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,usercontent.dev
+
 
 IP-CIDR,91.108.4.0/22
 IP-CIDR,91.108.8.0/21
