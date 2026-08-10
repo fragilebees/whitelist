@@ -1,0 +1,11 @@
+PROCESS-NAME,Discord.exe,PROXY
+
+DOMAIN-SUFFIX,discord.com,PROXY
+DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,discord.media,PROXY
+DOMAIN-SUFFIX,discordapp.com,PROXY
+DOMAIN-SUFFIX,discordapp.net,PROXY
+DOMAIN-SUFFIX,discordcdn.com,PROXY
+
+IP-CIDR,66.22.192.0/18,PROXY,no-resolve
+IP-CIDR,195.62.89.0/24,PROXY,no-resolve
